@@ -6,10 +6,10 @@
 - <b>Python</b>
 - <b>Azure/AWS</b>
 - <b>Terraform</b>
-- <b>Terraform</b>
+
 
 <h2>👨‍💻 Programming Projects:</h2>
-- <b>CodeWars</b>
+- <b>Terraform</b>
 
 <h2> 🤳 Connect with me:</h2>
 
