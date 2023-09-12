@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Terraform</b>
+- <b>CodeWars</b>
 
 <h2> 🤳 Connect with me:</h2>
 
