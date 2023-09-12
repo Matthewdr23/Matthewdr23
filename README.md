@@ -13,7 +13,7 @@
 
 
 
-[linkedin]:[https://www.linkedin.com/in/matthew-velez-b85b97140]](https://www.linkedin.com/in/matthew-velez-b85b97140/)
+[linkedin]:https://www.linkedin.com/in/matthew-velez-b85b97140/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
