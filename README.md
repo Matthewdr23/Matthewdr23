@@ -7,7 +7,7 @@
 - <b>Azure/AWS</b>
 - <b>Terraform</b>
 
-<h2>Programming</h2>
+<h2>👨‍💻Programming:</h2>
 - <b>CodeWars</b>
 
 <h2> 🤳 Connect with me:</h2>
