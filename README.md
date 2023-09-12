@@ -6,6 +6,7 @@
 - <b>Python</b>
 - <b>Azure/AWS</b>
 - <b>Terraform</b>
+- <b>Terraform</b>
 
 <h2>👨‍💻Programming:</h2>
 - <b>CodeWars</b>
