@@ -4,8 +4,7 @@
 
 - <b>PowerShell</b>
 - <b>Python</b>
-- <b>Azure/AWS</b>
-- <b>Terraform</b>
+- <b>(Azure & AWS) Terraform</b>
 
 
 <h2>👨‍💻 Programming Projects:</h2>
