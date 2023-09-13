@@ -7,7 +7,7 @@
   - [Active Directory Bulk User Creation](Link)
   - [JWipe (Disk Wiping Utility)](Link)
 - <b>Python</b>
-  -
+  
 - <b>(Azure & AWS) Terraform</b>
 
 
