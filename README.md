@@ -3,7 +3,11 @@
 <h2>👨‍💻 Security Engineering Projects:</h2>
 
 - <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](Link)
+  - [Active Directory Bulk User Creation](Link)
+  - [JWipe (Disk Wiping Utility)](Link)
 - <b>Python</b>
+  -
 - <b>(Azure & AWS) Terraform</b>
 
 
