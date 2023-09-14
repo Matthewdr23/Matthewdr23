@@ -6,17 +6,16 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Matthewdr23/Sentinel-Lab)
   - [Active Directory Bulk User Creation](Link)
   - [JWipe (Disk Wiping Utility)](Link)
-- <b>Python</b>
-  
-- <b>(Azure & AWS) Terraform</b>
 
 
 - <b>Docker OS Hardening</b>
   - [Getting started with Docker](https://github.com/Matthewdr23/Docker_Projects/tree/main/docker_get_started)
 
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👨‍💻 Programming/Scripting Projects:</h2>
 
 - <b>CodeWars</b>
+- <b>(Azure & AWS) Terraform</b>
+- <b>Python</b>
 
 <h2> 🤳 Connect with me:</h2>
 
