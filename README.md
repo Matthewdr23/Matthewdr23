@@ -11,6 +11,8 @@
 - <b>(Azure & AWS) Terraform</b>
 
 
+- <b>Docker OS Hardening</b>
+
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>CodeWars</b>
