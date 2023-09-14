@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Programming/Scripting Projects:</h2>
 
-- <b>CodeWars</b>
+- <b>[CodeWars](https://github.com/Matthewdr23/CodeWars)</b>
 - <b>(Azure & AWS) Terraform</b>
   - [Terraform Repository](https://github.com/Matthewdr23/Terraform_Projects)
 - <b>Python</b>
