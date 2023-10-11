@@ -35,8 +35,8 @@
   - [JWipe (Disk Wiping Utility)](Link)
  
 <h2> Security Engineer Training </h2>
-- <b>TryHackMe</b>
-- <b>HackTheBox</b>
+  - <b>TryHackMe</b>
+  - <b>HackTheBox</b>
 
 - <b>Docker OS Hardening</b>
   - [Getting started with Docker](https://github.com/Matthewdr23/Docker_Projects/tree/main/docker_get_started)
