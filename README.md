@@ -36,7 +36,8 @@
  
 <h2> Security Engineer Training </h2>
 
-  - [HackTheBox Training]
+  - [HackTheBox Training](Link)
+  - [TryHackMe Training](Link)
   
 <h2>Docker Projects </h2>
 - <b>Docker OS Hardening</b>
