@@ -35,9 +35,8 @@
   - [JWipe (Disk Wiping Utility)](Link)
  
 <h2> Security Engineer Training </h2>
-  - [JWipe (Disk Wiping Utility)](Link)
-  - [TryHackMe](Link)
-  - [HackTheBox](Link)
+
+  - [HackTheBox Training]
   
 <h2>Docker Projects </h2>
 - <b>Docker OS Hardening</b>
