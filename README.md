@@ -49,7 +49,7 @@
 - <b>[CodeWars](https://github.com/Matthewdr23/CodeWars)</b>
 - <b>(Azure & AWS) Terraform</b>
   - [Terraform Repository](https://github.com/Matthewdr23/Terraform_Projects)
-- <b>Python</b>
+  - Python Scripting
 
 <h2> 🤳 Connect with me:</h2>
 
