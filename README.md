@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewdr23&label=Profile%20views&color=0e75b6&style=flat" alt="matthewdr23" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Azure Functions Projects**
 
 - 🌱 I’m currently learning **AWS/Azure infrastructure with attention to Defense in depth**
 
