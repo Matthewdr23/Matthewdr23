@@ -38,7 +38,7 @@
 
   - [HackTheBox Training](https://app.hackthebox.com/profile/239507)
   - [TryHackMe Training](https://github.com/Matthewdr23/TryhackMe_Notes)
-  - [Detection As Code Projects]
+  - [Detection As Code Projects](https://github.com/Matthewdr23/Detection-as-Code)
   
 <h2>Docker Projects </h2>
 
