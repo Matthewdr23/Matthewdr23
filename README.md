@@ -44,6 +44,7 @@
 
 - <b>Docker OS Hardening</b>
   - [Getting started with Docker](https://github.com/Matthewdr23/Docker_Projects/tree/main)
+  - [Docker Containers](https://github.com/Matthewdr23/Docker_Projects/blob/main/Docker%20Containers/Container%20Documentation.md)
   - [Docker Networking](https://github.com/Matthewdr23/Docker_Projects/blob/main/Docker%20Networking/Networking.md)
 
 <h2>👨‍💻 Programming/Scripting Projects:</h2>
