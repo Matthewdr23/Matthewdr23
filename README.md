@@ -52,7 +52,7 @@
 - <b>[CodeWars](https://github.com/Matthewdr23/CodeWars)</b>
 - <b>[Azure & AWS Terraform]()</b>
   - [Terraform Repository](https://github.com/Matthewdr23/Terraform_Projects)
-  - [Python Scripting](https://github.com/Matthewdr23/Python_Scripting)
+- [Python Scripting](https://github.com/Matthewdr23/Python_Scripting)
 
 <h2> 🤳 Connect with me:</h2>
 
