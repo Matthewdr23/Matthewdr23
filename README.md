@@ -42,7 +42,7 @@
   
 <h2>Docker Projects </h2>
 
-- <b>Docker OS Hardening</b>
+- <b>Docker</b>
   - [Getting started with Docker](https://github.com/Matthewdr23/Docker_Projects/tree/main)
   - [Docker Containers](https://github.com/Matthewdr23/Docker_Projects/blob/main/Docker%20Containers/Container%20Documentation.md)
   - [Docker Networking](https://github.com/Matthewdr23/Docker_Projects/blob/main/Docker%20Networking/Networking.md)
@@ -50,7 +50,7 @@
 <h2>👨‍💻 Programming/Scripting Projects:</h2>
 
 - <b>[CodeWars](https://github.com/Matthewdr23/CodeWars)</b>
-- <b>(Azure & AWS) Terraform</b>
+- <b>[Azure & AWS Terraform]()</b>
   - [Terraform Repository](https://github.com/Matthewdr23/Terraform_Projects)
   - [Python Scripting](https://github.com/Matthewdr23/Python_Scripting)
 
