@@ -32,7 +32,7 @@
 - <b>PowerShell</b>
   - [Azure: GeoData Conversion of RDP Attempts](https://github.com/Matthewdr23/Sentinel-Lab)
   - [Active Directory Bulk User Creation](Link)
-  - [PowerShell Scripts]([Link](https://github.com/Matthewdr23/PowerShell))
+  - [PowerShell Scripts](https://github.com/Matthewdr23/PowerShell)
  
   
 <h2>Docker Projects </h2>
