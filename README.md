@@ -33,7 +33,7 @@
   - [Azure: GeoData Conversion of RDP Attempts](https://github.com/Matthewdr23/Sentinel-Lab)
   - [Active Directory Bulk User Creation](Link)
   - [PowerShell Scripts](https://github.com/Matthewdr23/PowerShell)
-- <b>Terraform Projects</b>
+- <b>[Terraform Projects](https://github.com/Matthewdr23/Terraform_Projects)</b>
 - <b>Docker Projects</b>
 
 <h2>Docker Projects </h2>
