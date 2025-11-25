@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewdr23&label=Profile%20views&color=0e75b6&style=flat" alt="matthewdr23" /> </p>
 
-- 🔭 I’m currently working on **Cloud Security Risk Assessments**
+- 🔭 I’m currently working on **Docker Splunk Environment with active network traffic**
 
-- 🌱 I’m currently learning **Cloud Security Automation**
+- 🌱 I’m currently learning **Terraform Security Best Practices**
 
 - 👯 I’m looking to collaborate on **Cloud Security & Detection Engineering Project**
 
-- 💬 Ask me about **Python, AWS/Azure Cloud technologies, & Cloud Security**
+- 💬 Ask me about **Docker, AWS/Azure Cloud technologies, & Cloud Security**
 
 - 📫 How to reach me **Matthewvelez25@gmail.com**
 
